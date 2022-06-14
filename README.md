@@ -8,7 +8,7 @@ various other information will be shown for better decision making.
 
 
 
-###Conclusion:-
+### Conclusion:-
 
 With the help of Big data analysis we were able to execute queries on a huge dataset like the one we have used on for our course 
 recommendation app. We have used Cosine similarity which is a metric used to measure how similar two items are. Mathematically, 
