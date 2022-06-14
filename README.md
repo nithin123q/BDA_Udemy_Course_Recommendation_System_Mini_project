@@ -1,6 +1,6 @@
 # BDA_Udemy_Course_Recommendation_System_Mini_project
 
-#Problem Statement of the mini project:-
+### Problem Statement of the mini project:-
 
 To build a recommendation app, that recommends the courses from Udemy to the person using streamlit for frontend and Udemy Dataset, 
 based on their given interest the app will guide them the courses along with the given Course ID, Course title, URL link, and 
@@ -8,7 +8,7 @@ various other information will be shown for better decision making.
 
 
 
-#Conclusion:-
+### Conclusion:-
 
 With the help of Big data analysis we were able to execute queries on a huge dataset like the one we have used on for our course 
 recommendation app. We have used Cosine similarity which is a metric used to measure how similar two items are. Mathematically, 
